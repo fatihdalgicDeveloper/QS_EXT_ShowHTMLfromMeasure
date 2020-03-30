@@ -2,11 +2,13 @@
 <br>
 Qlik Sense Extension
 <br>
-<img src="https://i.ibb.co/0h53hrf/showHTML.png" alt="showHTML" border="0" />
+<img src="https://i.ibb.co/18cx8T9/showHTML.png" alt="showHTML" border="0" />
+
 
 <br>
 <b>Sample measure code:</b><br>
-```
+
+```ruby
 ='<b>Bold Measure: '&sum(100000) * 5 &'</b>'
 &'<br>Line 2 with num(measure) :'&Num(sum(88888.555),'###,###.#')
 &'<br>Line 3 icon :<span class="lui-icon lui-icon--history"></span>'
