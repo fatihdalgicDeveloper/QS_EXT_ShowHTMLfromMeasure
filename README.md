@@ -6,7 +6,7 @@ Qlik Sense Extension
 
 <br>
 <b>Sample measure code:</b><br>
-
+<code>
 ='<b>Bold Measure: '&sum(100000) * 5 &'</b>'
 &'<br>Line 2 with num(measure) :'&Num(sum(88888.555),'###,###.#')
 &'<br>Line 3 icon :<span class="lui-icon lui-icon--history"></span>'
@@ -19,7 +19,7 @@ Qlik Sense Extension
 &'<div style="height:100px;width:300px;background-color:#F2F5F5;padding:10px;">'
 	&'TEST DIV with img <br><img src="https://qlik.imgix.net/us/-/media/images/qlik/global/qlik-logo-2x.png?h=94&w=308&la=en&hash=91B8028A8CF991CF3864E421063D49298BD58575">'
 &'</div>'
-
+</code>
 
 
 
