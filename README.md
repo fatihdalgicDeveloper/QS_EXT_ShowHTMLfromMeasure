@@ -2,7 +2,7 @@
 <br>
 Qlik Sense Extension
 <br>
-<img src="https://ibb.co/0h53hrf"/>
+<img src="https://i.ibb.co/0h53hrf/showHTML.png" alt="showHTML" border="0" />
 
 <br>
 <b>Sample measure code:</b><br>
